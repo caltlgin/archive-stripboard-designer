@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Stripboard Designer 01">
+</Property><Property Name="Solution File" Value="C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\Stripboard Designer 01.sln">
+</Property><Property Name="User Options File" Value="C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\Stripboard Designer 01.suo">
+</Property><Property Name="Date" Value="Monday, July 06, 2009">
+</Property><Property Name="Time" Value="8:23 AM">
+</Property><Property Name="Log Number" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Stripboard Designer 01.sln" Description="File successfully backed up as C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\Backup2\Stripboard Designer 01.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Stripboard Designer 01.suo" Description="File successfully backed up as C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\Backup2\Stripboard Designer 01.suo">
+</Event><Event ErrorLevel="0" Project="Stripboard Designer 01" Source="Stripboard Designer 01.vbproj" Description="Project file successfully backed up as C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\Backup2\Stripboard Designer 01.vbproj">
+</Event><Event ErrorLevel="0" Project="Stripboard Designer 01" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\Backup2\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Stripboard Designer 01" Source="Form1.vb" Description="File successfully backed up as C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\Backup2\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Stripboard Designer 01" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\Backup2\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Stripboard Designer 01" Source="Stripboard idea 01_TemporaryKey.pfx" Description="File successfully backed up as C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\Backup2\Stripboard idea 01_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="Stripboard Designer 01" Source="Form1.resx" Description="File successfully backed up as C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\Backup2\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Stripboard Designer 01" Source="My Project\Resources.resx" Description="File successfully backed up as C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\Backup2\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Stripboard Designer 01" Source="Stripboard Designer 01.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Stripboard Designer 01" Source="Stripboard Designer 01.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Stripboard Designer 01.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Stripboard Designer 01.sln" Description="Converted">
+</Event></UpgradeLog>

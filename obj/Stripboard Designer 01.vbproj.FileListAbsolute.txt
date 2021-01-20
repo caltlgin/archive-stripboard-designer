@@ -1,0 +1,14 @@
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\obj\Debug\Slice and Dice 01.exe
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\obj\Debug\Slice and Dice 01.xml
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\obj\Debug\Slice and Dice 01.pdb
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\bin\Slice and Dice 01.exe.manifest
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\bin\Slice and Dice 01.application
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\bin\Slice and Dice 01.exe
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\bin\Slice and Dice 01.pdb
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\bin\Slice and Dice 01.xml
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\obj\Debug\ResolveAssemblyReference.cache
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\obj\Debug\Slice_and_Dice_01.Form1.resources
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\obj\Debug\Slice_and_Dice_01.Resources.resources
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\obj\Debug\Stripboard Designer 01.vbproj.GenerateResource.Cache
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\obj\Debug\Slice and Dice 01.exe.manifest
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\obj\Debug\Slice and Dice 01.application

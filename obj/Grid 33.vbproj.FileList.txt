@@ -1,0 +1,9 @@
+obj\Debug\Slice and Dice 01.exe
+obj\Debug\Slice and Dice 01.xml
+obj\Debug\Slice and Dice 01.pdb
+bin\Slice and Dice 01.exe
+bin\Slice and Dice 01.pdb
+bin\Slice and Dice 01.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Slice_and_Dice_01.Form1.resources
+obj\Debug\Grid 33.vbproj.GenerateResource.Cache

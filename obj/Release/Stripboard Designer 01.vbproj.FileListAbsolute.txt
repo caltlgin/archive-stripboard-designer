@@ -1,0 +1,24 @@
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\obj\Release\ResolveAssemblyReference.cache
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\obj\Release\Stripboard Designer 01.vbproj.GenerateResource.Cache
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\bin\Stripboard Designer 01.exe.manifest
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\bin\Stripboard Designer 01.application
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\bin\Stripboard Designer 01.exe
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\bin\Stripboard Designer 01.xml
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\obj\Release\Stripboard Designer 01.exe.manifest
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\obj\Release\Stripboard Designer 01.application
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\obj\Release\Stripboard Designer 01.exe
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\obj\Release\Stripboard Designer 01.xml
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\obj\Release\Stripboard_Designer_01.Form1.resources
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\Code\obj\Release\Stripboard_Designer_01.Resources.resources
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\obj\Release\Stripboard Designer 01.exe
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\obj\Release\Stripboard Designer 01.xml
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\bin\Stripboard Designer 01.exe.manifest
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\bin\Stripboard Designer 01.application
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\bin\Stripboard Designer 01.exe
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\bin\Stripboard Designer 01.xml
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\obj\Release\ResolveAssemblyReference.cache
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\obj\Release\Stripboard_Designer_01.Form1.resources
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\obj\Release\Stripboard_Designer_01.Resources.resources
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\obj\Release\Stripboard Designer 01.vbproj.GenerateResource.Cache
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\obj\Release\Stripboard Designer 01.exe.manifest
+C:\Tommelise 3.0\Slice and Dice 2009\Stripboard idea 03 2008\obj\Release\Stripboard Designer 01.application
